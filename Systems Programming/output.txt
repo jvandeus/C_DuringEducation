@@ -1,0 +1,9 @@
+        Baccano             Latin           16 
+   Black Lagoon           English           24 
+   Cowboy Bebop           English            5 
+     Elfen Lied          Japanese           13 
+  Example Anime        Portuguese           75 
+           FLCL           English            6 
+      Higurashi          Japanese           18 
+  Paraoia Agent           English           13 
+         Trigun          Japanese            2 
